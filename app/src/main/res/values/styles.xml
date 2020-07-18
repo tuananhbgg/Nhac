@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#977C7C</item>
+        <item name="colorPrimaryDark">#786464</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppBar" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#977C7C</item>
+        <item name="colorPrimaryDark">#786464</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CustomColorProcessbar">
+        <item name="colorAccent">#FFFFFF</item>
+    </style>
+
+    <style name="ToolbarTheme">
+        <item name="android:textColorSecondary">@android:color/white</item>
+    </style>
+
+</resources>
